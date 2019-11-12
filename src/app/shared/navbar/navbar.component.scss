@@ -1,0 +1,15 @@
+.navbar {
+  background: #121d27 !important;
+}
+.navbar-brand {
+  color: white !important;
+  border-color: #FFFFFF !important;
+}
+.nav-link{
+  color: white !important;
+}
+@media screen and (max-width: 991px){
+.navbar-collapse .navbar-nav > .nav-item > .nav-link {
+   color: #121d27 !important;
+}
+}
